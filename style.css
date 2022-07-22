@@ -1,0 +1,23 @@
+body {
+    background-color:darkgrey;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    flex-grow: initial;
+    flex-basis: auto;
+}
+
+.deposit_button {
+    color: blueviolet;
+    background-color: palegoldenrod;
+}
+
+.withdraw_button {
+    color: red;
+    background-color: palevioletred;
+}
+
+.check_balance {
+    color:green;
+    background-color: powderblue;
+}
